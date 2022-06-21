@@ -1,0 +1,79 @@
+{
+    "author": {
+        "name": "",
+        "lastname": ""
+    },
+    "categories":[
+        {
+            "name": "Electrónica, Audio y Video"
+        },
+        {
+            "name": "iPod"
+        },
+        {
+            "name": "iPod touch"
+        },
+        {
+            "name": "32 GB"
+        }        
+    ],
+    "item": [
+        {
+            "id": 1,
+            "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+            "price": {
+                "currency": "dolar",
+                "amount": 1.980,
+                "decimals": "00"
+            },
+            "picture": "",
+            "condition": "Nuevo",
+            "free_shipping": true,
+            "sold_quantify": 234,
+            "description": "The Scarpe di Bianco Italian footware collection was founded by Bill White in 2009.Di Bianco offers classic handmade men's shoes with a modern twist. The combination of timeless models and details with contemporary colors and styling, resuls in decidedly current, yet, elegant models.The aim of the Scarpe di Bianco company is to offer men a custom shoe buying experience through a multitude of models, lasts, soles, leathers and color options."
+        },
+        {
+            "id": 2,
+            "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+            "price": {
+                "currency": "dolar",
+                "amount": 1.980,
+                "decimals": "00"
+            },
+            "picture": "",
+            "condition": "Nuevo",
+            "free_shipping": false,
+            "sold_quantify": 234,
+            "description": "The Scarpe di Bianco Italian footware collection was founded by Bill White in 2009.Di Bianco offers classic handmade men's shoes with a modern twist. The combination of timeless models and details with contemporary colors and styling, resuls in decidedly current, yet, elegant models.The aim of the Scarpe di Bianco company is to offer men a custom shoe buying experience through a multitude of models, lasts, soles, leathers and color options."
+        },
+        {
+            "id": 3,
+            "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+            "price": {
+                "currency": "dolar",
+                "amount": 1.980,
+                "decimals": "00"
+            },
+            "picture": "",
+            "condition": "Nuevo",
+            "free_shipping": true,
+            "sold_quantify": 234,
+            "description": "The Scarpe di Bianco Italian footware collection was founded by Bill White in 2009.Di Bianco offers classic handmade men's shoes with a modern twist. The combination of timeless models and details with contemporary colors and styling, resuls in decidedly current, yet, elegant models.The aim of the Scarpe di Bianco company is to offer men a custom shoe buying experience through a multitude of models, lasts, soles, leathers and color options."
+        },
+        {
+            "id": 4,
+            "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+            "price": {
+                "currency": "dolar",
+                "amount": 1.980,
+                "decimals": "00"
+            },
+            "picture": "",
+            "condition": "Nuevo",
+            "free_shipping": false,
+            "sold_quantify": 234,
+            "description": "The Scarpe di Bianco Italian footware collection was founded by Bill White in 2009.Di Bianco offers classic handmade men's shoes with a modern twist. The combination of timeless models and details with contemporary colors and styling, resuls in decidedly current, yet, elegant models.The aim of the Scarpe di Bianco company is to offer men a custom shoe buying experience through a multitude of models, lasts, soles, leathers and color options."
+        }
+    ]
+}
+  

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">	
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+		<link rel="shortcut icon" href="img\logo.png"/>
+    <link rel="stylesheet" href="css\style.css" /> 
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans">
+
+   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="js\script.js"></script>
+
+		<title>Mercado Libre México</title>
+  </head>
+  
+
+    <!--Encabezado: Caja de Búsqueda -->
+    <header>
+			<div class="search-box-container">
+				<div class="row-search">
+					<img src="img\logo.png" class="img-header" alt="Mercado Libre">						
+				</div>
+        <div>
+          <input class="input-search" type="text" placeholder="Nunca dejes de buscar"/>
+          <label class="submit" onclick="openProducts()"></label>  
+        </div>
+			</div>
+		</header>
+
+    <!-- Nav -->		
+		<div id="categorie-container">  
+		</div>
+
+		<br>
+
+		<!-- Contenido 1: Resultado de la búsqueda -->
+		<div id="container-result" style="visibility:hidden;">  
+		</div>
+
+    <!-- Contanido 2: Detalle Producto -->
+    <div id="container-detail-product" style="visibility:hidden;">
+    </div>
+
+  </body>
+</html>
+
